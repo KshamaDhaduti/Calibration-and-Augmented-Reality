@@ -15,5 +15,5 @@ https://wiki.khoury.northeastern.edu/display/~dhadutik/Project+4%3A+Calibration+
 
 ----Instructions for Execution
 	
-	Task1-Task6: Camera calibration & drawing 3D objects > main.cpp
-  Task 7     : Harris corner Detection                 > harris.cpp
+	Task 1-Task 6: Camera calibration & drawing 3D objects > main.cpp
+        Task 7     : Harris corner Detection                 > harris.cpp
