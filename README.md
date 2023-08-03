@@ -19,12 +19,17 @@ https://wiki.khoury.northeastern.edu/display/~dhadutik/Project+4%3A+Calibration+
         Task 7     : Harris corner Detection                 > harris.cpp
 
 
-Extension:
+Task 6: 
+To design a virtual object comprised of lines and project it onto the chessboard so that it could move about while
+maintaining its orientation. 
+https://github.com/KshamaDhaduti/Calibration-and-Augmented-Reality/assets/103454385/2b61f9eb-824b-42d5-930f-221b3cc2e9a1
 
-Harris Detection
 
+
+Task 7 : Harris Detection
 https://github.com/KshamaDhaduti/Calibration-and-Augmented-Reality/assets/103454385/2f3c6fa5-fcd5-4877-9102-ee44e726bba3
 
+Extension:
 Here we are adding a virtual object with the target object altered.
 ![image](https://github.com/KshamaDhaduti/Calibration-and-Augmented-Reality/assets/103454385/4cc599da-8c7b-4338-ad1a-8263c794c09a)
 
