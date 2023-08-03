@@ -19,6 +19,11 @@ https://wiki.khoury.northeastern.edu/display/~dhadutik/Project+4%3A+Calibration+
         Task 7     : Harris corner Detection                 > harris.cpp
 
 
+Extension:
 
+Harris Detection
+https://northeastern-my.sharepoint.com/:v:/r/personal/dhaduti_k_northeastern_edu/Documents/Calibration%20and%20AR/Harris.mp4?csf=1&web=1&e=IZQsxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+Here we are adding a virtual object with the target object altered.
 ![image](https://github.com/KshamaDhaduti/Calibration-and-Augmented-Reality/assets/103454385/4cc599da-8c7b-4338-ad1a-8263c794c09a)
 
