@@ -17,3 +17,8 @@ https://wiki.khoury.northeastern.edu/display/~dhadutik/Project+4%3A+Calibration+
 	
 	Task 1-Task 6: Camera calibration & drawing 3D objects > main.cpp
         Task 7     : Harris corner Detection                 > harris.cpp
+
+
+
+![image](https://github.com/KshamaDhaduti/Calibration-and-Augmented-Reality/assets/103454385/4cc599da-8c7b-4338-ad1a-8263c794c09a)
+
